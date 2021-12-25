@@ -1,11 +1,22 @@
-.link {  text-decoration: none;}
-.button{text-decoration: none;}
+.link {
+  text-decoration: none;
+}
+.button {
+  text-decoration: none;
+}
 /* .ul{text-decoration: none;} */
-.button .link {  text-transform: capitalize;}
-.site-nav .link {  text-transform: uppercase;}
+.button .link {
+  text-transform: capitalize;
+}
+.site-nav .link {
+  text-transform: uppercase;
+}
 .nav {
-display: flex;
-justify-content: center;
-list-style: none;
-margin-left: 20px;}
-.ul{list-style: none;}
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  margin-left: 20px;
+}
+.ul {
+  list-style: none;
+}
